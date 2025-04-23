@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6f7273dce6783e64aa7d3e3b069e3e56
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 218205
+  packageName: Kawaii Land
+  packageVersion: 1.04
+  assetPath: Assets/KawaiiLand/Prefabs/Tiles/Tile_Grass_plane.prefab
+  uploadId: 625840

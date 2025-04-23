@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 179691f2d2ad6cd4c9b0ab516275624a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 218205
+  packageName: Kawaii Land
+  packageVersion: 1.04
+  assetPath: Assets/KawaiiLand/Materials/PlantsAndVegetables.mat
+  uploadId: 625840

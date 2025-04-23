@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ce5bcb07a62a9c64a85111f5453b6594
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 218205
+  packageName: Kawaii Land
+  packageVersion: 1.04
+  assetPath: Assets/KawaiiLand/Materials/ToonWater night.mat
+  uploadId: 625840

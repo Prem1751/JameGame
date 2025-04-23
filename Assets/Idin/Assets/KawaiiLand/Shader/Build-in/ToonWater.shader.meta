@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bce1f9d540c9ab0409d4a5f44739d821
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 218205
+  packageName: Kawaii Land
+  packageVersion: 1.04
+  assetPath: Assets/KawaiiLand/Shader/Build-in/ToonWater.shader
+  uploadId: 625840

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bed73bdda91fa4049a89867df2141fe0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 218205
+  packageName: Kawaii Land
+  packageVersion: 1.04
+  assetPath: Assets/KawaiiLand/Prefabs/Tiles/Tile_road_curse.prefab
+  uploadId: 625840

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cb400edbe0f9e5748929cd24a620f7c3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 218205
+  packageName: Kawaii Land
+  packageVersion: 1.04
+  assetPath: Assets/KawaiiLand/Materials/Wood_01.mat
+  uploadId: 625840

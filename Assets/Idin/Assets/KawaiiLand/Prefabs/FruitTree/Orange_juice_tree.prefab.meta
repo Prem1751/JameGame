@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: da3de740cd5902e4dba01c46edb65010
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 218205
+  packageName: Kawaii Land
+  packageVersion: 1.04
+  assetPath: Assets/KawaiiLand/Prefabs/FruitTree/Orange_juice_tree.prefab
+  uploadId: 625840

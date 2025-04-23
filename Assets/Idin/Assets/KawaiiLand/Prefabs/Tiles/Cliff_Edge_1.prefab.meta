@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e22358f3bbc35464c99da27bcfcb39f7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 218205
+  packageName: Kawaii Land
+  packageVersion: 1.04
+  assetPath: Assets/KawaiiLand/Prefabs/Tiles/Cliff_Edge_1.prefab
+  uploadId: 625840

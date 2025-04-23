@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 72b8ecd6b05b12f48868530d8dac8d4b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 218205
+  packageName: Kawaii Land
+  packageVersion: 1.04
+  assetPath: Assets/KawaiiLand/Prefabs/Tiles/Farmland_01.prefab
+  uploadId: 625840

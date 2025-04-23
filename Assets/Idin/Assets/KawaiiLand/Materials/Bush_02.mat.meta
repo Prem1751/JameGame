@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b62351a55646aa740a8aab258fcbe5b0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 218205
+  packageName: Kawaii Land
+  packageVersion: 1.04
+  assetPath: Assets/KawaiiLand/Materials/Bush_02.mat
+  uploadId: 625840

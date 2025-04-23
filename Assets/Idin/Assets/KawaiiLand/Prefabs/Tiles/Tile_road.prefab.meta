@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f66c291bfaef1a14791eba80d084563d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 218205
+  packageName: Kawaii Land
+  packageVersion: 1.04
+  assetPath: Assets/KawaiiLand/Prefabs/Tiles/Tile_road.prefab
+  uploadId: 625840

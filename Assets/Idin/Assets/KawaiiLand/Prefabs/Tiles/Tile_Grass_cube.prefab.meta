@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 668a164b8b1451547b3788b631a0af3d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 218205
+  packageName: Kawaii Land
+  packageVersion: 1.04
+  assetPath: Assets/KawaiiLand/Prefabs/Tiles/Tile_Grass_cube.prefab
+  uploadId: 625840
